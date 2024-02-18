@@ -5,16 +5,19 @@ This is the repository for Ksu's personal webpage, built using Vitepress. It con
 ### Development Setup
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/your-repository.git
 ```
 
 Navigate to the project directory:
+
 ```bash
 cd your-repository
 ```
 
 Install dependencies:
+
 ```bash
 npm install
 ```
@@ -22,6 +25,7 @@ npm install
 ### Local Development
 
 To run the development server and preview the webpage locally, use the following command:
+
 ```bash
 npm run docs:dev
 ```
