@@ -1,0 +1,20 @@
+# VitePress related files and directories
+node_modules/
+cache/
+package-lock.json
+
+# Generated files by VitePress
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+
+# Logs
+npm-debug.log*
+
+# Miscellaneous
+/.github
+/.env.local
+/.env.*.local
+!.env.example
