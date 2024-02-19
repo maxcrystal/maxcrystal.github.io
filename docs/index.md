@@ -11,23 +11,20 @@ hero:
     alt: Ксенися Семипядная
   actions:
     - theme: brand
-      text: Brand Button
-      link: /markdown-examples
+      text: Консультация
+      link: /blog/markdown-examples
     - theme: alt
-      text: Alt Button
-      link: /api-examples
+      text: Узнать больше
+      link: /blog/api-examples
 
 features:
-  - icon: 
-      src: '/favicon.png'
-    title: Feature A
+  - icon: 💁🏼‍♀️
+    title: Индивидуальная терапия
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 
-      src: '/favicon.png'
-    title: Feature B
+  - icon: 👩‍❤️‍💋‍👨
+    title: Парная консультация
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 
-      src: '/favicon.png'
-    title: Feature C
+  - icon: 👩‍💻
+    title: Мастер-классы
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

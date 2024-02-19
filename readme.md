@@ -7,7 +7,7 @@ This is the repository for Ksu's personal webpage, built using Vitepress. It con
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+FIXME: git clone https://github.com/your-username/your-repository.git
 ```
 
 Navigate to the project directory:
