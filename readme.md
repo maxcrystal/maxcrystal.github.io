@@ -39,7 +39,3 @@ For more details, refer to the Vitepress documentation.
 ### Acknowledgements
 
 This webpage was built using Vitepress, an awesome static site generator.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
