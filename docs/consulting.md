@@ -17,7 +17,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :stopwatch: **Длительность**: 50 минут
 
-:speaking_head: **Формат**: онлайн или оффлайн (кабинет м. Пушкинская)
+:speaking_head: **Формат**: онлайн или оффлайн
 
 :credit_card: **Стоимость**: 7000 руб.
 
@@ -25,7 +25,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :stopwatch: **Длительность**: 1 час 15 минут
 
-:speaking_head: **Формат**: онлайн или оффлайн (кабинет м. Пушкинская)
+:speaking_head: **Формат**: онлайн или оффлайн
 
 :credit_card: **Стоимость**: 10000 руб.
 
@@ -35,4 +35,4 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :speaking_head: **Формат**: оффлайн
 
-:credit_card: **Стоимость**: 3000 руб./чел. (групп от 5 чел.)
+:credit_card: **Стоимость**: 3000 руб./чел. (группа от 5 чел.)
