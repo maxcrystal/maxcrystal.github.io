@@ -4,7 +4,7 @@
 
 Телефон для записи: [+7 (903) 975-57-81](tel:+79039755781)
 
-Telegram: [@ksushabernal](https://ksuhabernal.t.me)
+Telegram: [@ksushabernal](https://ksushabernal.t.me)
 
 Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8E)
 
@@ -19,7 +19,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :speaking_head: **Формат**: онлайн или оффлайн
 
-:credit_card: **Стоимость**: 7000 руб.
+:credit_card: **Стоимость**: 6500 руб.
 
 ### Парная консультация
 
@@ -27,7 +27,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :speaking_head: **Формат**: онлайн или оффлайн
 
-:credit_card: **Стоимость**: 10000 руб.
+:credit_card: **Стоимость**: 9000 руб.
 
 ### Групповая терапия
 
