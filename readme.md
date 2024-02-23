@@ -1,6 +1,6 @@
 # Ksu's Personal Webpage
 
-This is the repository for Ksu's personal webpage, built using Vitepress. It contains information about her, her work, and any other relevant details.
+This is the repository for Ksu's personal webpage, built using Vitepress. It contains information about her, her work, and any other relevant details. The page is published at https://semipyadnaya.ru.
 
 ### Development Setup
 
