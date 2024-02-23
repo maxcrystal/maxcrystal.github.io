@@ -5,7 +5,13 @@ const startYear = currentYear === 2024 ? "" : "2024-";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [["link", { rel: "icon", href: "/favicon.png" }]],
+  head: [["link", { rel: "icon", href: "/favicon.png" }],
+         ["meta", { property: 'og:title', content: 'Психолог Ксения Семипядная' }],
+         ["meta", { property: 'og:description', content: 'Немедицинский психотерапевт по вопросам детско-родительских, парных, семейных отношений, а также - самоопределения, самореализации, самоидентичности' }],
+         ["meta", { property: 'og:image', content: '/ksu.png' }],
+         ["meta", { property: 'og:url', content: 'https://semipyadnaya.ru' }],
+         ["meta", { property: 'og:type', content: 'website' }],
+        ],
   title: "Ксения Семипядная",
   description: "Психолог Ксения Семипядная",
 
