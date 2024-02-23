@@ -1,7 +1,6 @@
 # VitePress related files and directories
 node_modules/
 cache/
-package-lock.json
 
 # Generated files by VitePress
 .DS_Store
