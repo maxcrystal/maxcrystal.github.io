@@ -5,8 +5,9 @@ const startYear = currentYear === 2024 ? '' : '2024-'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   title: "Ксения Семипядная",
-  description: "Just testing...",
+  description: "Психолог Ксения Семипядная",
   lastUpdated: true,
 
   themeConfig: {
@@ -15,16 +16,16 @@ export default defineConfig({
 
     nav: [
       { text: 'Главная', link: '/' },
-      { text: 'Обо мне', link: '/' },
-      { text: 'Блог', link: '/blog/' },
+      { text: 'Обо мне', link: '/about' },
+      { text: 'Блог', link: '/blog/separation-1' },
     ],
 
     sidebar: [
       {
         text: 'Статьи',
         items: [
-          { text: 'Статья 1', link: '/blog/markdown-examples' },
-          { text: 'Статья 2', link: '/blog/api-examples' }
+          { text: 'Сепарация. Вопросы к размышлению', link: '/blog/separation-1' },
+          { text: 'Сепарация. Разбор', link: '/blog/separation-2' }
         ]
       }
     ],

@@ -7,13 +7,13 @@ This is the repository for Ksu's personal webpage, built using Vitepress. It con
 Clone the repository:
 
 ```bash
-FIXME: git clone https://github.com/your-username/your-repository.git
+FIXME: git clone https://github.com/maxcrystal/your-repository.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd your-repository
+FIXME: cd your-repository
 ```
 
 Install dependencies:
@@ -38,4 +38,4 @@ For more details, refer to the Vitepress documentation.
 
 ### Acknowledgements
 
-This webpage was built using Vitepress, an awesome static site generator.
+This webpage was quickly built using **Vitepress**, an awesome static site generator.
