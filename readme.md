@@ -7,13 +7,13 @@ This is the repository for Ksu's personal webpage, built using Vitepress. It con
 Clone the repository:
 
 ```bash
-FIXME: git clone https://github.com/maxcrystal/your-repository.git
+git clone https://github.com/maxcrystal/maxcrystal.github.io
 ```
 
 Navigate to the project directory:
 
 ```bash
-FIXME: cd your-repository
+cd maxcrystal.github.io
 ```
 
 Install dependencies:
