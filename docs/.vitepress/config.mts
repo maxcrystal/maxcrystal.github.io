@@ -30,7 +30,7 @@ export default defineConfig({
     nav: [
       { text: "Главная", link: "/" },
       { text: "Обо мне", link: "/about" },
-      { text: "Игра", link: "https://ksuasks.ru" },
+      { text: "Игра", link: "/ksuasks" },
       { text: "Блог", link: "/blog/separation-1" },
     ],
 
