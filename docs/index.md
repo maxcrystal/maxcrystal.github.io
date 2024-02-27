@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: Консультация
       link: /consulting
+    - theme: alt
+      text: Обо мне
+      link: /about
 
 features:
   - icon:
