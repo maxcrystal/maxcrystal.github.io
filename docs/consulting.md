@@ -19,7 +19,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :speaking_head: **Формат**: онлайн или оффлайн
 
-:credit_card: **Стоимость**: 6500 руб.
+:credit_card: **Стоимость**: 4500 руб.
 
 ### Парная консультация
 
@@ -27,7 +27,7 @@ Email: [ksushabernal@yandex.ru](mailto:ksushabernal@yandex.ru?subject=%D0%97%D0%
 
 :speaking_head: **Формат**: онлайн или оффлайн
 
-:credit_card: **Стоимость**: 9000 руб.
+:credit_card: **Стоимость**: 8000 руб.
 
 ### Групповая терапия
 
